@@ -188,13 +188,38 @@ der Teppich | 융단, 러그, 카페트 | die Teppiche
 der Fußboden | 바닥 
 die Stehlampe | 세워두는 스탠드 
 das Licht | 빛
-das Sofa [조파] | 소파 | die Sofas 
+das Sofa [조파] | 소파 | die Sofas
+der Satz | 문장 | die Sätze
+der Sohn | 아들 | die Söhne
+das Lager | 창고 | die Lager
+der Bus | 버스 | die Busse
+die Hose | 바지 | die Hosen
+das Eis | 아이스크림
+das Kino | 영화관 | die Kinos
+das Theater | 극장 | die Theater
+der Wein | 와인 | die Weine
+der Alkohol | 술
+das Geschenk | 선물 | die Geschenke
+das Wochenende | 주말
+die Kopfschmerzen | 두통
+die Angst | 걱정, 근심
+die Geschichte | 이야기, 역사
+die Stadt | 도시, 시내
+das Zentrum | 중심지
+das Kaufhaus | 백화점 | die Kaufhäuser
+das T-shirt | 티셔츠 | die T-Shirts
+der Marktplatz | 광장 
+der Unterricht | 강의, 수업 
+der Buchladen | 서점 
+die Buchhandlung | 서점 
+die Grammatik | 문법
+die Disko | 디스코텍
+
 
 
 ---
 
 # 동사
-
 
 machen | 하다
 spielen | 놀다
@@ -229,15 +254,97 @@ helfen | 돕다 | helfe | hilfst | hilft
 tragen | 1.들다, 2.운반하다, 3.입다 | trage | trägst | trägt
 können | 할 수 있다 | kann | kannst | kann
 möchten | ..하고 싶다 | möchte | möchtest |  möchte
+
+
+
 dürfen | ..해도 되다 | darf | darfst | darf
 kühlen | 차게하다
 saugen | 빨다, 흡수하다
 zeigen | 보여주다
 kochen | 요리하다, 끓이다, 삶다, 데치다
 liegen | 놓여있다, 누워있다
+dürfen | ~ 해도 되 | darf | darfst | darf
+kühlen | 차게하다, 식히다
+saugen | 빨다, 흡수하다
+zeigen | 보여주다
+ergänzen | 보충하다, 채우다 | ergänze | ergänzt | ergänzt
+hören | 듣다
+notieren | 메모하다
+sagen | 말하다
+korrigieren | 교정하다
+antworten | 대답하다
+fragen | 질문하다 
+kosten | 값이 얼마이다
+bezahlen | 지불하다 
+anrufen | 전화하다
+einkaufen | 쇼핑하다
+zumachen | 닫다
+aufmachen | 열다
+aufstehen | 일어나다
+einschalten | 켜다
+ausschalten | 끄다
+wegwerfen | 버리다 
+zunehmen | 살이 찌다 | nehme zu | nimmst zu | nimmt zu
+abnehmen | 살이 빠지다 | nehme ab | nimmst ab | nimmt ab
+schwimmen | 수영하다 
+aufräumen | 치우다, 청소하다 | räume auf | räumst auf | räumt auf
+laufen | 걷다, 뛰다 | laufe | läufst | läuft
+treten | 밟다 | trete | trittst | tritt
+raten | 권하다, 조언하다 | rate | rätst | rät
+vergessen | 잊다, 잊어버리다 | vergesse | vergisst | vergisst
+aussteigen | 내리다
+einsteigen | 올라타다
+spazieren gehen | 산책하다 
+anprobieren | 입어보다
+ausprobieren | 맛을 음미해보다
+suchen | 찾다, 수색하다
 
 
 ä  ö  ü  Ä  Ö  Ü  ß
+---
+
+# 동사 II - 아래의 동사만! 뜻과 + 동사원형에 따른 <er 주어의 현재형>, <단순과거>, <과거분사> 형에 대한 질문을 함
+
+fahren
+aufsteigen
+einsteigen
+gehen
+anprobieren
+ausprobieren
+kaufen
+essen
+treffen
+reden
+suchen
+anrufen
+laufen
+vergessen
+aufstehen
+trinken
+lesen
+sehen
+bestellen
+unterhalten
+finden
+tanzen
+amüsieren
+schreiben
+
+nehmen | 받다 | nimmt | hat ... genommen
+hören | 듣다 | hört | hat ... gehört
+notieren | 메모하다 | notiert | hat ... notiert
+anrufen | 전화하다 | ruft an | hat ... angerufen
+einkaufen | 쇼핑하다 | kauft ein | hat ... eingekauft
+zumachen | 닫다 | macht zu | hat ... zugemacht
+aufmachen | 열다 | macht auf | hat ... aufgemacht
+aufstehen | 일어나다 | steht auf | ist ... aufgestanden
+zunehmen | 살이 찌다 | nimmt zu | hat ... zugenommen
+abnehmen | 살이 빠지다 | nimmt ab | hat ... abgenommen
+vergessen | 잊다, 잊어버리다 | vergisst | hat ... vergessen
+anprobieren | 입어보다 | probiert an | hat ... anprobiert
+ausprobieren | 맛을 음미해보다 | probiert aus | hat ... ausprobiert
+suchen | 찾다, 수색하다 | sucht | hat ... gesucht
+
 ---
 
 # 숫자
@@ -301,7 +408,6 @@ einhundertfünfundachtzig | 185 [아인훈다흐트푼프운트아흐치쉬]
 müde | 피곤한
 hier | 여기에(서), 이곳에(서)
 und | 그리고(and)
-aber | 하지만(but)
 heute | 오늘
 ja | = yes
 nein | = no
@@ -319,7 +425,6 @@ wohin | 어디로 [보힌]
 ins Café | 카페로
 in der Firma | 회사에서 [인 데어 피흐마]
 spät | 늦게
-später | 나중에
 viel [피일] | 많이
 gut | 좋은
 gestern | 어제
@@ -334,7 +439,6 @@ mittel | 중간의
 klein | 작은
 etwas | 어떤 것, 조금, 약간
 Ich bin in ____ geboren | 나는 ~에서 태어났다.
-dort | 거기에, 저기에
 seit | ~이래, ~이후부터 (=since)
 Jahre alt | 나이를 말할때 씀 (=years old)
 fast | 거의 
@@ -364,6 +468,37 @@ neben | 옆에 (=near)
 auch | -도, 또한 (=too)
 bequem [베크빔] | 편안한, 안락한 
 hart | 단단한, 딱딱한
+sich freuen | 기쁘다
+sich freuen auf | 미래의 일에 대해 기쁘다
+sich freuen über | 과거의 일에 대해 기쁘다
+richtig | 알맞은, 올바른
+dort | 거기, 거기에서
+beruflich | 직업적으로
+sich melden | 연락하
+dünn | 마른
+kaputt | 고장난
+sonnig | 화창한 
+ab heute | 오늘부터
+pünktlich | 정시에
+heute Morgen | 오늘 아침에
+mit meiner Katze | 내 고양이와 함께 
+leer | 텅 빈
+voll | 꽉 찬
+sinnvoll | 의미있는
+am Nachmittag | 오후에
+am Vormittag | 오전에
+mit dem Bus | 버스를 타고
+ein bisschen | 약간, 조금
+aber | 그러나
+unterwegs | 이동 중에
+reden über | ~에 대해 이야기하다
+interessant | 흥미로운
+zusammen | 함께, 다 같이
+danach | 그 다음에
+langweilig | 지루한 
+später | 나중에, 늦게
+beide | (=both)
+spät in der Nacht | 밤늦게 
 
 
 
