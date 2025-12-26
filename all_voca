@@ -199,6 +199,9 @@ das Kino | 영화관 | die Kinos
 das Theater | 극장 | die Theater
 der Wein | 와인 | die Weine
 der Alkohol | 술
+
+
+
 das Geschenk | 선물 | die Geschenke
 das Wochenende | 주말
 die Kopfschmerzen | 두통
@@ -214,7 +217,28 @@ der Buchladen | 서점
 die Buchhandlung | 서점 
 die Grammatik | 문법
 die Disko | 디스코텍
-
+der Hamburger | 햄버거
+der Taxi | 택시 
+das Restaurant | 레스토랑
+die Dose | 캔, 통조림통 | die Dosen
+die Erdnuss | 땅콩 | die Erdnüsse
+der Nachbar | 이웃 | die Nachbarn
+die Straße | 거리, 도로
+die Garage | 차고
+das Bild | 그림
+die Wand | 벽
+das Regal | 책장
+das Hemd | 셔츠
+das Heft | 노트
+der Schrank | 장롱, 옷장
+der Löffel | 수저
+die Schublade | 서랍
+die Decke | 천장
+der Boden | 땅, 지면
+der Korb | 바구니
+die Gießkanne | 물뿌리개
+die Blume | 꽃 | die Blumen
+der Teller | 접시, 쟁반
 
 
 ---
@@ -295,6 +319,16 @@ anprobieren | 입어보다
 ausprobieren | 맛을 음미해보다
 suchen | 찾다, 수색하다
 
+öffnen | 열다, 열리다 | öffne | öffnest | öffnet
+wissen | weiß | weißt | weiß
+stellen | 세우다, 두다
+stehen | 서있다
+legen | 놓다, -에 두다
+liegen | 놓여있다
+setzen | 앉히다, 앉다
+sich setzen | -에 앉다
+sich stellen | -에 서다, 위치하다
+
 
 ä  ö  ü  Ä  Ö  Ü  ß
 ---
@@ -344,6 +378,13 @@ unterhalten | 즐겁게 대화하다, 담소를 나누다 | unterhält | hat ...
 bestellen | 주문하다 | bestellt | hat ... bestellt
 tanzen | 춤추다 | tanzt | hat ... getanzt
 amüsieren | 즐기다 | amüsiert | hat ... amüsiert 
+
+holen | 가져오다 | holt | hat ... geholt
+wissen | 알다 | weiß | hat ... gewusst
+kennenlernen | (누구를)알게되다 | lernt kennen | hat ... kennengelernt
+ausgeben | 돈을 쓰다, 지출하다 | gibt aus | hat ... ausgegeben
+hängen | 걸다 | hängt | hat ... gehängt
+hängen | 걸려있다 | hängt | hat ... gehangen
 
 
 ---
@@ -499,7 +540,8 @@ danach | 그 다음에
 langweilig | 지루한 
 später | 나중에, 늦게
 beide | (=both)
-spät in der Nacht | 밤늦게 
+spät in der Nacht | 밤늦게
+zwischen | 중간에, 사이에
 
 
 
