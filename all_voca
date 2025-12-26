@@ -225,7 +225,7 @@ machen | 하다
 spielen | 놀다
 lernen | 배우다
 wohnen | 살다
-arbeiten | 일하다 | arbeite | arbeitest | arbeitet
+arbeiten | 일하다
 trinken | 마시다
 gehen | 가다 
 kommen | 오다
@@ -233,7 +233,7 @@ schlafen | 자다 | schlafe | schläfst | schläft
 reden | 말하다 ['레이든'과 '헤이든'의 중간발음] | rede | redest | redet
 treffen | 만나다 | treffe | triffst | trifft
 heißen | ~라고 불리다 | heiße | heißt | heißt
-reisen | 여행하다
+reisen | 여행하다 | reise | reist | reist
 sehen | 보다 | sehe | siehst | sieht
 essen | 먹다 | esse | isst | isst
 sprechen | 말하다 | spreche | sprichst | spricht
@@ -253,10 +253,7 @@ halten | 1.붙잡다, 2.멈추다, 3.유지하다 | halte | hältst [핼츠트] 
 helfen | 돕다 | helfe | hilfst | hilft
 tragen | 1.들다, 2.운반하다, 3.입다 | trage | trägst | trägt
 können | 할 수 있다 | kann | kannst | kann
-möchten | ..하고 싶다 | möchte | möchtest |  möchte
-
-
-
+möchten | ..하고 싶다 | möchte | möchtest | möchte
 dürfen | ..해도 되다 | darf | darfst | darf
 kühlen | 차게하다
 saugen | 빨다, 흡수하다
@@ -266,7 +263,6 @@ liegen | 놓여있다, 누워있다
 dürfen | ~ 해도 되 | darf | darfst | darf
 kühlen | 차게하다, 식히다
 saugen | 빨다, 흡수하다
-zeigen | 보여주다
 ergänzen | 보충하다, 채우다 | ergänze | ergänzt | ergänzt
 hören | 듣다
 notieren | 메모하다
@@ -305,31 +301,29 @@ suchen | 찾다, 수색하다
 
 # 동사 II - 아래의 동사만! 뜻과 + 동사원형에 따른 <er 주어의 현재형>, <단순과거>, <과거분사> 형에 대한 질문을 함
 
-fahren
-aufsteigen
-einsteigen
-gehen
-anprobieren
-ausprobieren
-kaufen
-essen
-treffen
-reden
-suchen
-anrufen
-laufen
-vergessen
-aufstehen
-trinken
-lesen
-sehen
-bestellen
-unterhalten
-finden
-tanzen
-amüsieren
-schreiben
-
+schreiben | 쓰다 | schreibt | hat ... geschrieben
+sehen | 보다 | sieht | hat ... gesehen
+lesen | 읽다 | liest | hat ... gelesen
+trinken | 마시다 | trinkt | hat ... getrunken  
+aufstehen | 일어나다, 일어서다 | steht auf | ist ... aufgestanden
+vergessen | 잊다, 잊혀지다 | vergisst | hat ... vergessen
+laufen | 걷다, 뛰다 | läuft | ist ... gelaufen
+suchen | 찾다 | sucht | hat ... gesucht
+reden | 말하다 | redet | hat ... geredet
+treffen | 만나다 | trifft | hat ... getroffen
+kaufen | 사다 | kauft | hat ... gekauft
+fahren | 가다 | fährt | ist/hat ... gefahren
+machen | 하다 | macht | hat ... gemacht
+spielen | 놀다 | spielt | hat ... gespielt
+lernen | 배우다 | lernt | hat ... gelernt
+arbeiten | 일하다 | arbeitet | hat ... gearbeitet
+gehen | 가다 | geht | ist ... gegangen
+kommen | 오다 | kommt | ist ... gekommen
+schlafen | 자다 | schläft | hat ... geschlafen
+essen | 먹다 | isst | hat ... gegessen
+finden | 찾다, ~라고 생각하다 | findet | hat ... gefunden
+geben | 주다 | gibt | hat ... gegeben
+kaufen | 사다 | kauft | hat ... gekauft
 nehmen | 받다 | nimmt | hat ... genommen
 hören | 듣다 | hört | hat ... gehört
 notieren | 메모하다 | notiert | hat ... notiert
@@ -341,9 +335,16 @@ aufstehen | 일어나다 | steht auf | ist ... aufgestanden
 zunehmen | 살이 찌다 | nimmt zu | hat ... zugenommen
 abnehmen | 살이 빠지다 | nimmt ab | hat ... abgenommen
 vergessen | 잊다, 잊어버리다 | vergisst | hat ... vergessen
-anprobieren | 입어보다 | probiert an | hat ... anprobiert
-ausprobieren | 맛을 음미해보다 | probiert aus | hat ... ausprobiert
 suchen | 찾다, 수색하다 | sucht | hat ... gesucht
+aussteigen | 내리다 | steigt aus | ist ... ausgestiegen
+einsteigen | 올라타다 | steigt ein | ist ... eingestiegen
+anprobieren | 입어보다 | probiert an | hat ... anprobiert
+ausprobieren | 음미하다 | probiert aus | hat ... ausprobiert
+unterhalten | 즐겁게 대화하다, 담소를 나누다 | unterhält | hat ... unterhalten
+bestellen | 주문하다 | bestellt | hat ... bestellt
+tanzen | 춤추다 | tanzt | hat ... getanzt
+amüsieren | 즐기다 | amüsiert | hat ... amüsiert 
+
 
 ---
 
