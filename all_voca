@@ -199,9 +199,6 @@ das Kino | 영화관 | die Kinos
 das Theater | 극장 | die Theater
 der Wein | 와인 | die Weine
 der Alkohol | 술
-
-
-
 das Geschenk | 선물 | die Geschenke
 das Wochenende | 주말
 die Kopfschmerzen | 두통
@@ -224,14 +221,12 @@ die Dose | 캔, 통조림통 | die Dosen
 die Erdnuss | 땅콩 | die Erdnüsse
 der Nachbar | 이웃 | die Nachbarn
 die Straße | 거리, 도로
-die Garage | 차고
 das Bild | 그림
 die Wand | 벽
-das Regal | 책장
 das Hemd | 셔츠
 das Heft | 노트
 der Schrank | 장롱, 옷장
-der Löffel | 수저
+der Löffel | 수저 | die Löffel
 die Schublade | 서랍
 die Decke | 천장
 der Boden | 땅, 지면
@@ -239,6 +234,23 @@ der Korb | 바구니
 die Gießkanne | 물뿌리개
 die Blume | 꽃 | die Blumen
 der Teller | 접시, 쟁반
+
+
+der Müll | 폐기물
+die Gabel | 포크 | die Gabeln
+der bestimmte Artikel | 정관사
+der unbestimmte Artikel | 부정관사
+der Anzug | 양복
+die Garage | 차고 | die Garagen
+der Haken | 옷고리
+der Zug | 기차 | die Züge
+das Glas | 유리, 유리컵
+der Garten | 정원
+der Ball | 공
+der Rasen | 잔디, 잔디밭
+das Regal | 책꽂이, 선반 | die Regale
+die Waschmaschine | 세탁기 | die Waschmaschinen
+die Couch | 긴 소파
 
 
 ---
@@ -318,7 +330,6 @@ spazieren gehen | 산책하다
 anprobieren | 입어보다
 ausprobieren | 맛을 음미해보다
 suchen | 찾다, 수색하다
-
 öffnen | 열다, 열리다 | öffne | öffnest | öffnet
 wissen | weiß | weißt | weiß
 stellen | 세우다, 두다
@@ -328,6 +339,7 @@ liegen | 놓여있다
 setzen | 앉히다, 앉다
 sich setzen | -에 앉다
 sich stellen | -에 서다, 위치하다
+einsetzen | 알맞은 것을 넣다, 작성하다
 
 
 ä  ö  ü  Ä  Ö  Ü  ß
@@ -378,7 +390,6 @@ unterhalten | 즐겁게 대화하다, 담소를 나누다 | unterhält | hat ...
 bestellen | 주문하다 | bestellt | hat ... bestellt
 tanzen | 춤추다 | tanzt | hat ... getanzt
 amüsieren | 즐기다 | amüsiert | hat ... amüsiert 
-
 holen | 가져오다 | holt | hat ... geholt
 wissen | 알다 | weiß | hat ... gewusst
 kennenlernen | (누구를)알게되다 | lernt kennen | hat ... kennengelernt
@@ -386,6 +397,11 @@ ausgeben | 돈을 쓰다, 지출하다 | gibt aus | hat ... ausgegeben
 hängen | 걸다 | hängt | hat ... gehängt
 hängen | 걸려있다 | hängt | hat ... gehangen
 
+
+erreichen | 도달하다, 닿다 | erreicht | hat ... erreicht
+wegwerfen | 버리다 | wirft weg | hat ... weggeworfen
+bezahlen | 지불하다 | bezahlt | hat ... bezahlt
+entdecken | 발견하다 | entdeckt | hat ... entdeckt 
 
 ---
 
